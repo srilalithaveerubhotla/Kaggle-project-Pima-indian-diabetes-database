@@ -21,7 +21,7 @@ from sklearn.metrics import classification_report
 # Preprocessing and data exploration
 
     
-diab=pd.read_csv("/home/qolsys/Videos/datasets/diabetes.csv")
+diab=pd.read_csv("/home/Videos/datasets/diabetes.csv")
 
 diab.head()
 diab.info
