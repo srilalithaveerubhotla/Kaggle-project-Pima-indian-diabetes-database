@@ -3,7 +3,6 @@
 """
 Created on Tue Mar 13 11:20:00 2018
 
-@author: qolsys
 """
 # import packages
 
